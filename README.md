@@ -1,4 +1,4 @@
-## Hello | Halo | 你好 👋
+## Hello | Halo | 你好 | Hallo 👋
 
 <!---
 LeornandoTan/LeornandoTan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
